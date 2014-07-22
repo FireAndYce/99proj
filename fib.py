@@ -1,5 +1,3 @@
-import math
-
 t = 0
 f = 0
 l = 1
